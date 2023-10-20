@@ -1,4 +1,4 @@
-//Nguyễn Ngô Thế Cường :21521905
+//Nguyễn Ngô Thế Cường
 import React, { useState } from 'react';
 import { View, Text, FlatList, SectionList, Image, TouchableOpacity, StyleSheet, ImageBackground } from 'react-native';
 import { fruits_vegetables, workouts } from './src/data';
